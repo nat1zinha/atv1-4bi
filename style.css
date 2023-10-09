@@ -1,0 +1,40 @@
+.jesus{
+    border:4px dotted brown;
+    width:fit-content;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    margin: 4rem;
+}
+.corinthians{
+    border: 4px dotted rgb(153, 94, 22);
+    width:fit-content;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    margin: 4rem;
+}
+.lasanha{
+    border:4px dotted chocolate;
+    width: fit-content;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    margin: 4rem;
+}
+.cachorro{
+    border:4px dotted firebrick;
+    width:fit-content;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    margin: 4rem;
+}
+
+.t1 {
+    margin: 3rem;
+}
